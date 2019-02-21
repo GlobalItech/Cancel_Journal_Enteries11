@@ -18,4 +18,6 @@
     ],
     
     'application': True,
+    'price':'15.0',
+    'currency': 'EUR',
 }
