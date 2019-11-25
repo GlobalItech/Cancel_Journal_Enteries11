@@ -19,5 +19,6 @@
     
     'application': True,
     'price':'15.0',
+     'license': 'AGPL-3',
     'currency': 'EUR',
 }
